@@ -1,0 +1,17 @@
+{
+  "name": "restful",
+  "version": "1.0.0",
+  "description": "Case study of a restful API using NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Daniel Assulfi",
+  "license": "ISC",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "express": "^4.16.4",
+    "express-validator": "^5.3.1",
+    "nedb": "^1.8.0"
+  }
+}
